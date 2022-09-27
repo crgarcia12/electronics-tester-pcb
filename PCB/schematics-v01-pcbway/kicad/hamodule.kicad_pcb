@@ -9333,6 +9333,19 @@
       (xy 29.5 98.4)
       (xy 30.9 98)
     ) (layer "B.SilkS") (width 0.12) (fill solid) (tstamp 79475d34-a279-4ec3-9388-5b99cd07d51e))
+  (gr_poly
+    (pts
+      (xy 32 97.3)
+      (xy 30 97.3)
+      (xy 28 96.3)
+      (xy 30.5 95.3)
+      (xy 28 94.3)
+      (xy 31 93.3)
+      (xy 28 92.3)
+      (xy 31.6 91.3)
+      (xy 28 90.3)
+      (xy 32 89.3)
+    ) (layer "B.SilkS") (width 0.12) (fill solid) (tstamp 7e32bb15-a7e1-4277-98d9-481abb3cda89))
   (gr_rect (start 28.5 106.1) (end 39.3 115) (layer "B.SilkS") (width 0.12) (fill solid) (tstamp cd6780f7-fc23-413b-9233-c1f3f618e8c0))
   (gr_rect (start 89.4 83) (end 105.7 107.8) (layer "B.Mask") (width 0.15) (fill solid) (tstamp 9a897ae0-7aeb-43c7-bb17-deebafec9275))
   (gr_poly
