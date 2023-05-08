@@ -5,12 +5,14 @@ Adafruit_MCP23X17 mcp;
 
 // The component is called 74HC595. 
 // But variables cannot start with a number :)
+#define U74HC_SI       19
 #define U74HC_RCK      21
 #define U74HC_SCK      22
-#define U74HC_SI       19
+#define ActivateRelays 23
+
 #define SDA            32
 #define SCL            33
-#define ActivateRelays 23
+
 
 bool RelayStatus[8];
 bool PreviousButtonStatus[8];
